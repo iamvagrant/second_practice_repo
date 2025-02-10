@@ -4,4 +4,4 @@ this is my first practice task to learn git and github.
 
 I have connected my first local git repo with remote github account.
 
-I leanrnt this from my brother.
+I learnt this from my brother.
